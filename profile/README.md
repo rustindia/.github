@@ -1,12 +1,12 @@
-## Hi there 👋
+## Rust India
+A community for all Rust Devs and enthusiasts in India
 
-<!--
+Website: https://rust-lang.in
 
-**Here are some ideas to get you started:**
+Social Media/IMs : [Twitter](https://twitter.com/rustlangin), [Telegram](https://t.me/RustIndia), [Discord]()
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Sub-communities:
+- Hyderabad | [Meetup](https://www.meetup.com/rust-hyderabad/)
+- Bangalore | [Meteup](https://www.meetup.com/rustindia/), [Google Groups](https://groups.google.com/g/rustox)
+- Chennai | [Meetup](https://www.meetup.com/mad-rs/)
+- Kerala | [Telegram](https://t.me/keralars)
