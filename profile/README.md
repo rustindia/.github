@@ -7,6 +7,6 @@ Social Media/IMs : [Twitter](https://twitter.com/rustlangin), [Telegram](https:/
 
 Sub-communities:
 - Hyderabad | [Meetup](https://www.meetup.com/rust-hyderabad/)
-- Bangalore | [Meteup](https://www.meetup.com/rustindia/), [Google Groups](https://groups.google.com/g/rustox)
+- Bangalore | [Hasgeek](http://hasgeek.com/rustindia)
 - Chennai | [Meetup](https://www.meetup.com/mad-rs/)
 - Kerala | [Telegram](https://t.me/keralars)
