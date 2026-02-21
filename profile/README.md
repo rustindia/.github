@@ -1,7 +1,7 @@
 ## Rust India
 A community for all Rust Devs and enthusiasts in India
 
-Website: https://rust-lang.in
+Website: [https://rustindia.org/](https://rustindia.org/)
 
 Social Media/IMs : [Twitter](https://twitter.com/rustlangin), [Telegram](https://t.me/RustIndia), [Discord](https://discord.gg/p3uaTXS6NP)
 
